@@ -3,7 +3,7 @@
     <div class="container mx-auto text-center px-8">
       <h2 class="text-3xl lg:text-6xl font-bold mb-2 text-white">Welcome to Your Vue App</h2>
       <h3 class="text-xl lg:text-4xl text-green-200">
-        Deployed to
+        Deployed to now
         <span
           class="font-bold bg-clip-text text-transparent bg-gradient-to-br from-blue-400 via-purple-400 to-blue-500"
         >DigitalOcean</span>
